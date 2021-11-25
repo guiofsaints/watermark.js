@@ -1,0 +1,9 @@
+{
+  "name": "tytow.panel",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.16.1"
+  }
+}
